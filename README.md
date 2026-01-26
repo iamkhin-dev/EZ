@@ -1,6 +1,5 @@
-# EZ 
+# EZ - FOR EDUCATIONAL PURPOSES ONLY
 
-# ⚠️ FOR EDUCATIONAL PURPOSES ONLY
 ### Tools included:
 
 🔎 Basic Scanner
